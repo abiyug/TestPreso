@@ -1,0 +1,17 @@
+Preparing to deploy application...DONE
+Uploading bundle for application: 75627...DONE
+Deploying bundle: 339512 for application: 75627 ...
+Waiting for task: 121682778
+  building: Processing bundle: 339512
+  building: Parsing manifest
+  building: Building image: 333580
+  building: Fetching packages
+  building: Installing packages
+  building: Installing files
+  building: Pushing image: 333580
+  deploying: Starting instances
+  rollforward: Activating new instances
+  unstaging: Stopping old instances
+Application successfully deployed to https://abiyug.shinyapps.io/CrimeAnalyzerShinyApp
+Deployment completed: https://abiyug.shinyapps.io/CrimeAnalyzerShinyApp
+There were 50 or more warnings (use warnings() to see the first 50)
